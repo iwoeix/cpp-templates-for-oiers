@@ -1,2 +1,3 @@
 # cpp-templates-for-oiers
-C++ templates for OIers.
+C++ templates for OIers including:
+- ...
