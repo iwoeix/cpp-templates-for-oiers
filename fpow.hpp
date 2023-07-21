@@ -1,7 +1,7 @@
 template <class base, class exp>
 base fpow(base a, exp b)
 {
-    base res = 1 % p;
+    base res = 1;
     for (; b; b & 1 && (res *= a), a *= a, b >>= 1);
     return res;
 }
